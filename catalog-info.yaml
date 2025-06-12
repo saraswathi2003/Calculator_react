@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: Calculator_react
+  annotations:
+    github.com/project-slug: saraswathi2003/Calculator_react
+spec:
+  type: other
+  lifecycle: unknown
+  owner: saraswathi
